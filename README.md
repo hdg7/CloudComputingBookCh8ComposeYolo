@@ -1,6 +1,6 @@
 # Chapter 8 Compose Yolo
 
-This repository contains the final Compose tutorial mentioned in **Chapter 8** of the book:
+This repository contains the Compose tutorial with YOLO mentioned in **Chapter 8** of the book:
 
 [**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
 
